@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tables">
+        <item>Booth 1</item>
+        <item>Booth 2</item>
+        <item>Table 1</item>
+        <item>Table 2</item>
+        <item>Table 3</item>
+    </string-array>
+</resources>
